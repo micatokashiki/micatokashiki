@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hello, I'm Mica!👋
+
+- 🌱 I’m currently learning Python
+
+- 🔭 I’m working on a School Project about Data Science!
+
+
 
 <!--
 **micatokashiki/micatokashiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
