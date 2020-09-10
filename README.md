@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Python
 
-- 🔭 I’m working on a School Project about Data Science!
+- 🔭 I’m working on a School Project about Data Science! (Coming soon... a new repository!)
 
 
 
